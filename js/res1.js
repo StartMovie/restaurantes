@@ -1,4 +1,4 @@
-var texto1 =['Restaurante 1','Información'];
+var texto1 =['Comida','Información'];
 var cuadroTexto=document.getElementById('Texto');
 
 function terminos_cambio(checkbox){
